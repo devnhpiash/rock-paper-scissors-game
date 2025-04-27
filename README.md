@@ -42,7 +42,7 @@ Click on your choice (Rock ✊, Paper ✋, or Scissors ✌️)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/devnhpiash/rock-paper-scissors-game.git
    ```
 2. **Navigate to the project folder**
    ```bash
@@ -65,7 +65,7 @@ rock-paper-scissors/
 ## 🙌 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/devnhpiash/tictactoe-game/rock-paper-scissors) if you'd like to collaborate.
+Feel free to check the [issues page](https://github.com/devnhpiash/rock-paper-scissors-game/issues) if you'd like to collaborate.
 
 ---
 
